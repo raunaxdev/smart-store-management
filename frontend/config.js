@@ -14,5 +14,5 @@ const STORE_CONFIG = {
     upiId: "raunakjha.dav@upi",
     
     // API Server
-    apiUrl: "http://127.0.0.1:5000/api"
+    apiUrl: "https://smart-store-management.onrender.com/api"
 };
